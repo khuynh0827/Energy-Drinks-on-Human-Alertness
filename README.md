@@ -1,1 +1,5 @@
-# Energy-Drinks-on-Human-Alertness
+# Cognitive Effects of Sugar and Caffeine on Human Alertness - A Research Study 
+
+This research study investigates the effect of different energy drink formulations upon human mental vigilance. The effect of various substances on human performance is often an important topic to research as humans can be interested in ways to enhance their abilities to perform certain tasks. Energy drinks are a common substance to do so. These drinks are drinks often with stimulants inside, most commonly caffeine, and are marketed as products that will enhance physical and mental performance. Because of the variety of energy drink formulations that one can purchase, it begs the question of what component of these drinks actually helps enhance performance. Therefore, this experience tests the following research question: What is the effect of sugar and caffeine on mental vigilance? Techniques used involve multiple linear regression, factorial designs, blocking, ANOVA, interaction plots, and multi-covariate plots. 
+
+[This project was completed for UCLA's STATS 101B Course - Introduction to Design and Analysis of Experiments.]
